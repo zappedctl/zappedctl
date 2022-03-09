@@ -8,3 +8,8 @@ Hey, welcome to my GitHub profile. My name is zappedctl and I mostly work on web
 * IDE: NeoVim
 * Languages: C++, Python, JS, TS
 * Libraries: SFML, React
+
+## Contact
+
+* Email: zappedctl@protonmail.com
+* Discord: zappedctl@3594
